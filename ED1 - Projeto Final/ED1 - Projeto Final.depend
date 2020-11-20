@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1563322299 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\funcoesmenu.c
+	"funcoesMENU.h"
+	<stdio.h>
+	<stdlib.h>
+
+1563322299 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\funcoesmenu.h
+
+1563729128 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\interatividade.c
+	"interatividade.h"
+	<windows.h>
+	<stdio.h>
+
+1563729128 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\interatividade.h
+
+1563729128 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"interatividade.h"
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
+1563729976 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1563729976 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\fila.h
+
+1563730513 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"fila.h"
+
+1563729262 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\lista.h
+
+1563682797 source:c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1563729976 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\pilha.h
+
+1563554143 c:\users\ferna\desktop\bti - 2018.1\3 periodo\aed1\projeto\ed1 - projeto final\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1563890411 source:c:\users\aluno\desktop\ed1 - projeto final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1563886479 c:\users\aluno\desktop\ed1 - projeto final\fila.h
+
+1563886177 source:c:\users\aluno\desktop\ed1 - projeto final\interatividade.c
+	"interatividade.h"
+	<windows.h>
+	<stdio.h>
+
+1563729128 c:\users\aluno\desktop\ed1 - projeto final\interatividade.h
+
+1563889924 source:c:\users\aluno\desktop\ed1 - projeto final\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"fila.h"
+
+1563890691 c:\users\aluno\desktop\ed1 - projeto final\lista.h
+
+1563890556 source:c:\users\aluno\desktop\ed1 - projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"interatividade.h"
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
+1563729976 c:\users\aluno\desktop\ed1 - projeto final\pilha.h
+
+1563881393 source:c:\users\aluno\desktop\ed1 - projeto final\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1563890411 source:c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1563886479 c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\fila.h
+
+1563886177 source:c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\interatividade.c
+	"interatividade.h"
+	<windows.h>
+	<stdio.h>
+
+1563729128 c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\interatividade.h
+
+1563890691 source:c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"fila.h"
+
+1563890691 c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\lista.h
+
+1563890556 source:c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"interatividade.h"
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
+1563729976 c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\pilha.h
+
+1563881393 source:c:\users\renan\desktop\ed1 - projeto final\ed1 - projeto final\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
